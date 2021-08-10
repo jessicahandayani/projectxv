@@ -975,6 +975,7 @@ http://www.templatemo.com/tm-515-eatery
 
     .slider .caption {
       padding: 0;
+      text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.4);
     }
 
     .menu-thumb .menu-info {
