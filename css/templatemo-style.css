@@ -215,10 +215,11 @@ http://www.templatemo.com/tm-515-eatery
     border: none;
     margin-bottom: 0;
     padding: 25px 0;
+    /*background: rgba(255, 255, 255, 0.5);*/
   }
 
   .custom-navbar .navbar-brand {
-    color: #ffffff;
+    color: #6a994e;
     font-size: 18px;
     font-weight: bold;
   }
@@ -246,7 +247,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .custom-navbar .navbar-nav.navbar-right .section-btn:hover {
-    background: #292929;
+    background: #386641;
     color: #ffffff;
   }
 
@@ -265,7 +266,7 @@ http://www.templatemo.com/tm-515-eatery
   .custom-navbar .nav li a {
     font-size: 12px;
     font-weight: bold;
-    color: #ffffff;
+    color: #386641;
     padding-right: 22px;
     padding-left: 22px;
     text-transform: uppercase;
@@ -303,7 +304,7 @@ http://www.templatemo.com/tm-515-eatery
   @media(min-width:768px) {
     .custom-navbar {
       border-bottom: 0;
-      background: 0 0; 
+      background: 0 0;
     }
 
     .custom-navbar.top-nav-collapse {
@@ -319,7 +320,7 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .top-nav-collapse .nav li a {
-      color: #575757;
+      color: #386641;
     }
 
     .top-nav-collapse .nav .section-btn a {
@@ -402,7 +403,7 @@ http://www.templatemo.com/tm-515-eatery
     background-repeat: no-repeat;
     background-attachment: local;
     background-size: cover;
-    height: 650px;
+    height: 720px;
   }
 
   .slider .item-first {
@@ -856,6 +857,10 @@ http://www.templatemo.com/tm-515-eatery
     background: #6a994e;
     color: #ffffff;
   }
+
+  .copyright-text {
+    text-align: right;
+  } 
 
 
 
