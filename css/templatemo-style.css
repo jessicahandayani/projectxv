@@ -798,12 +798,16 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .footer-info,
-  footer .social-icon {
+  footer {
     margin-top: 20px;
   }
 
+  .footer-social {
+    padding-left: 40px;
+  }
+
   .footer-logo {
-    background: url('../images/logo.png') center center no-repeat;
+    background: url('../images/logo-pt.png') center center no-repeat;
     background-size: 75%;
     margin-top: 0;
     padding: 40px 0 40px 80px;
@@ -875,14 +879,15 @@ http://www.templatemo.com/tm-515-eatery
   .social-icon li a {
     border-radius: 100px;
     color: #6a994e;
-    font-size: 15px;
-    width: 35px;
-    height: 35px;
-    line-height: 35px;
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
     text-decoration: none;
     text-align: center;
     transition: all 0.4s ease-in-out;
     position: relative;
+    margin-right: 15px;
   }
 
   .social-icon li a:hover {
@@ -891,7 +896,8 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .copyright-text {
-    text-align: right;
+    text-align: left;
+    padding-left: 40px;
   } 
 
 
