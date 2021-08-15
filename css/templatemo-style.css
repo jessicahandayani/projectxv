@@ -221,6 +221,7 @@ http://www.templatemo.com/tm-515-eatery
   .navbar-brand {
     font-family: 'Merriweather';
     padding-top: 5px;
+    width: 200px;
   }
 
   .custom-navbar .navbar-brand {
@@ -238,7 +239,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .custom-navbar .navbar-nav.navbar-nav-first {
-    margin-left: 8em;
+    margin-left: 4em;
   }
 
   .custom-navbar .navbar-nav.navbar-right li a {
