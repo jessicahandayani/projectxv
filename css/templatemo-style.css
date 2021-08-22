@@ -57,6 +57,10 @@ http://www.templatemo.com/tm-515-eatery
     line-height: 24px;
   }
 
+  .slider-text {
+    text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
+  }
+
 
 
   /*---------------------------------------
@@ -68,7 +72,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   a {
-    color: #252525;
+    color: #388641;
     -webkit-transition: 0.5s;
     transition: 0.5s;
     text-decoration: none !important;
@@ -541,11 +545,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .team-info p {
-    color: #bfbdbd;
-    font-size: 12px;
-    font-weight: bold;
     letter-spacing: 1px;
-    text-transform: uppercase;
     margin-top: 5px;
   }
 
@@ -1021,7 +1021,6 @@ http://www.templatemo.com/tm-515-eatery
 
     .slider .caption {
       padding: 0;
-      text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.4);
     }
 
     .menu-thumb .menu-info {
