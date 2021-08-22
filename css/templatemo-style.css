@@ -98,6 +98,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .section-title h2 {
+    color: #386641;
     margin: 0;
   }
 
@@ -686,6 +687,16 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   #testimonial h2 {
+    color: #b2b2b2;
+    text-shadow: 1px 3px 5px rgba(0, 0, 0, 0.8);
+  }
+
+  #testimonial h4 {
+    color: #ffffff;
+    text-shadow: 1px 3px 5px rgba(0, 0, 0, 0.8);
+  }
+
+  #testimonial i {
     color: #ffffff;
   }
 
