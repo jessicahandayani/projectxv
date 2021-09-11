@@ -11,11 +11,108 @@
   <loc>http://spiceindoland.com/</loc>
   <lastmod>2021-09-11T12:48:07+00:00</lastmod>
   <priority>1.00</priority>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/logo.png</image:loc>
+      <image:caption>Spice Indoland Logo, PT Rempah Naturalindo Global</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+      <image:title>Spice Indoland Logo</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/team-image1.jpg</image:loc>
+      <image:caption>Moist and Aromatic Tahitian (Tahitensis) Vanilla Beans Pod Product from Indonesia</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+      <image:title>Tahitian Vanilla Bean</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/team-image2.jpg</image:loc>
+      <image:caption>Shiny and Plump Planifolia Vanilla Beans Pod Product from Indonesia</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+      <image:title>Planifolia Vanilla Bean</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/team-image3.jpg</image:loc>
+      <image:caption>Whole Vanilla Bean Pod Product from Indonesia</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+      <image:title>Custom Specification Indonesian Vanilla Bean</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/about-image.jpg</image:loc>
+      <image:caption>Indonesian Farmer</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+      <image:title>Spice Indoland aims to help local farmers</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image1.jpg</image:loc>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image2.jpg</image:loc>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image3.jpg</image:loc>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image4.jpg</image:loc>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image5.jpg</image:loc>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image6.jpg</image:loc>
+  </image:image>
 </url>
+
 <url>
   <loc>http://spiceindoland.com/index.html</loc>
   <lastmod>2021-09-11T12:48:07+00:00</lastmod>
   <priority>0.80</priority>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/logo.png</image:loc>
+      <image:caption>Spice Indoland Logo, PT Rempah Naturalindo Global</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+      <image:title>Spice Indoland Logo</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/team-image1.jpg</image:loc>
+      <image:caption>Moist and Aromatic Tahitian (Tahitensis) Vanilla Beans Pod Product from Indonesia</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+      <image:title>Tahitian Vanilla Bean</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/team-image2.jpg</image:loc>
+      <image:caption>Shiny and Plump Planifolia Vanilla Beans Pod Product from Indonesia</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+      <image:title>Planifolia Vanilla Bean</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/team-image3.jpg</image:loc>
+      <image:caption>Whole Vanilla Bean Pod Product from Indonesia</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+      <image:title>Custom Specification Indonesian Vanilla Bean</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/about-image.jpg</image:loc>
+      <image:caption>Indonesian Farmer</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+      <image:title>Spice Indoland aims to help local farmers</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image1.jpg</image:loc>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image2.jpg</image:loc>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image3.jpg</image:loc>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image4.jpg</image:loc>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image5.jpg</image:loc>
+  </image:image>
+  <image:image>
+      <image:loc>http://spiceindoland.comimages/menu-image6.jpg</image:loc>
+  </image:image>
 </url>
 
 
